@@ -121,7 +121,7 @@ When all the tests pass, the exercise is complete.
 
 ## Extension
 
-Refactor the classes and any tests that use them so that they exhibit encapsulation and abstraction more fully.
+Refactor the classes and any tests that use them so that they exhibit encapsulation and abstraction more fully and add any other improvements that you can think of.
 
 ## Next Steps
 
