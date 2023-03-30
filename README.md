@@ -121,7 +121,9 @@ When all the tests pass, the exercise is complete.
 
 ## Extension
 
-Refactor the classes and any tests that use them so that they exhibit encapsulation and abstraction more fully and add any other improvements that you can think of.
+Refactor the classes so that you are passing in instances of the Game class rather than instantiating them inside the Computer class modify any corresponding tests to make them work. Create a new branch for this.
+
+Refactor the classes and any tests that use them so that they exhibit encapsulation and abstraction more fully.
 
 ## Next Steps
 
