@@ -119,6 +119,10 @@ The tests are in the `./src/test/java/com/booleanuk/core` directory. Don't chang
 
 When all the tests pass, the exercise is complete.
 
+## Extension
+
+Refactor the classes and any tests that use them so that they exhibit encapsulation and abstraction more fully.
+
 ## Next Steps
 
 Now that you've practice dependency injection, apply this knowledge to your ongoing Bob's Bagels OOP exercise. You should have multiple classes working together in that exercise; any dependencies should be injected rather than hard coded. You can inject via constructors and via method parameters.
