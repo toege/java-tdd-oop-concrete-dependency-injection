@@ -6,4 +6,8 @@ public class PowerSupply {
     public void turnOn() {
         this.isOn = true;
     }
+
+    public void turnOff() {
+        this.isOn = false;
+    }
 }
